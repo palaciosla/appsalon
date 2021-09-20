@@ -1,0 +1,1 @@
+{"version":3,"sources":["layout/paginacion.scss"],"names":[],"mappings":"AAAA,mBAKQ,kBAAmB","file":"paginacion.css","sourcesContent":[".paginacion {\r\n\r\n\r\n\r\n    button {\r\n        padding: .5rem 1rem;\r\n        \r\n\r\n    }\r\n}"]}
